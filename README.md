@@ -41,9 +41,3 @@ pip install -r requirements.txt
 
 ## Uso
 Cada proyecto incluye su propia documentación y ejemplos de uso. Consulta el README específico de cada proyecto para más detalles.
-
-## Licencia
-[MIT](LICENSE)
-
-## Contacto
-Para cualquier consulta o colaboración, por favor abrir un issue en este repositorio.
